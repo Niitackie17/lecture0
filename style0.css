@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 h1 {
     color: blueviolet;
     text-align: center;
@@ -42,49 +41,5 @@ body {
     body {
         background-color: yellow;
     }
-=======
-h1 {
-    color: blueviolet;
-    text-align: center;
-}
-body {
-     font-family: "Times New Roman", Times, serif,Arial, Helvetica, sans-serif;
-    font-size: 16px;
-    color: red;
-    width: auto;
-  border: 2px solid green;
-  padding: 10px;
-  margin: 35px;
-  margin-left: 200px;
-  } 
-#top {
-    font-size: 36px;
-    color: red;
-}
 
-#middle {
-    font-size: 24px;
-    color: burlywood;
-}
-
-#bottom {
-    font-size: 12px;
-    
-}
-
-.name {
-    font-weight: bold;
-    color: blue;
-    padding: 5px;
-}
-@media (min-width: 500px) {
-    body {
-        background-color:lightblue;
-    }
-    }
-@media (max-width: 499px) {
-    body {
-        background-color: yellow;
-    }
->>>>>>> ef956eacccb7661bc68fd1401f8347b9f14ac5b5
     }
